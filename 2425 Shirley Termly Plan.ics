@@ -1,0 +1,1649 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Timetabling re English
+UID:3fd509eb-06b1-455e-ae71-e099393faa09@3fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250308
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - TD & KC at Maths Hub meeting 9:15-12:15
+UID:e7fb6bca-9a61-4cac-8d7c-92d4481b692b@e7fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Meet the Teacher Events 3-3:20pm (children to hall from 2:55pm)
+UID:95513e0b-c61d-4128-bed1-c07a42fa7e63@9551.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Tues 3rd CPD:
+UID:5bf11c05-3988-4a2a-a86a-0e1bcd86fe24@5bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 04.09
+UID:13915195-4886-4215-9380-c1067d28a0c2@1391.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Assessment calendar
+UID:2ed8b1eb-6164-4ffa-a037-500f4d4801ab@2ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Prospective parent tour 10.10 11am
+UID:12b1a27f-259e-4b47-be24-1981ada39f3c@12b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - TA training – Supporting Angry Children
+UID:2d0b93b5-a688-4471-96bf-86219bf61d54@2d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Mentoring Meetings
+UID:ffa008f0-5b86-404e-9e4e-cd91b0f03005@ffa0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - PLP and EHC target sheet reviews
+UID:58858c5c-87aa-49b0-aa0c-83437f5764bb@5885.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - SLT
+UID:b8bd26a8-2024-4452-84a0-23c6f27bef58@b8bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250208
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 05.02 CPD – Mental Health and well being
+UID:23cdd3b4-d7c2-411b-ba6e-d010796c8576@23cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Year 5 swimming starts
+UID:ae790e25-f866-4d72-adf1-e8c699ff1a51@ae79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 11th and 14th – Rec Parents Evenings
+UID:299d0c62-84df-42ba-8a8d-490eec93b2be@299d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241102
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Half Term
+UID:d201b64d-8231-4bf0-9f7b-ddaadcba0ea7@d201.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - format of termly reports
+UID:9caa0874-7f72-4b24-8c83-aa2758aca0f7@9caa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - No teacher CPD in lieu of week of 07.10
+UID:e41b6adb-8f1b-4bae-b3f6-7e040e3b4d55@e41b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Leadership appraisals EOY ‘24
+UID:41e9f03f-01c4-4e0d-beda-d148ddc69f82@41e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - mentoring reports
+UID:42917b58-529d-4da9-90cb-19f862f42ef1@4291.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y6 QLA Deadline
+UID:767bc605-26c2-41f2-976e-b01943e45840@767b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250208
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y6 QLA Deadline 05/02/25
+UID:9021cbdd-58b8-4383-ba6b-91d5f0c96ebe@9021.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 03.09 – Training Day: Safeguarding for all staff
+UID:51679058-71e1-4cce-a804-f03642ed1034@5167.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - TA training TBC
+UID:bf95d03e-f8db-4880-9e8a-c9f97c73e7de@bf95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Each class teacher
+UID:2521e831-e060-419f-a22d-e1790806f17c@2521.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Planning and teaching ‘must haves’
+UID:889f3103-1a38-4033-bf28-3ed006f63308@889f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Teacher appraisals completed
+UID:6627441c-fd81-4cb0-90c2-680f59c68781@6627.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Learning Drop Ins focus
+UID:d7888701-2c60-4d4c-8ffe-9348fec38bf0@d788.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241019
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - New Displays in corridors
+UID:2dee99d9-4fde-4460-9285-b083d9a7c586@2dee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - (Home Visits pm)
+UID:47be98d2-bc3a-4db6-a913-791c67c8d47b@47be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Gov Standards Cttee – 14.11
+UID:7270eff2-8995-44de-9ed8-27f97243db1f@7270.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - PS Christmas crafts 17 + 18.12
+UID:3f0e38c3-b607-4fed-88a5-d39dfd868d3d@3f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - - Pupil Progress Meetings
+UID:7a5705b8-2c52-4952-8f45-a68a30c7c2ff@7a57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Priorities next term by year group and across school
+UID:d715ef05-db3c-4a1d-827e-68ef8a655e3b@d715.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Budget Planning
+UID:8c3cb048-5d78-4a8f-a0a7-42837bb5df12@8c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Leadership appraisals 23-24 done
+UID:693e8bef-d55b-4ecd-9abc-ede1ace79049@693e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y2 Assessments
+UID:238a6189-48c2-4cd3-a8da-8ddac5e49e52@238a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250405
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Action Plan Reviews
+UID:1d863393-efd5-44bb-aeea-371973b6b9ae@1d86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Assess and record Phonics/ Benchmarking
+UID:631f4c3e-3e22-4d90-add1-c2d5b645cd4d@631f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Year 6 swimming starts
+UID:c7e1637a-d203-47af-ad29-37c9f181e9ab@c7e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - BLP – 7 Characteristics Launch
+UID:e2aae393-d4ba-47b5-bd4b-0a02753a09a0@e2aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Wed Staff meeting – MHST - EBSA
+UID:970eb009-0f46-4ffc-b0ca-6c5e6cd1137f@970e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Leadership: School Improvement Plan Review
+UID:62a75244-3945-44a4-92b3-c39b137f6065@62a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - TD & KC at Maths Hub meeting 9:15-12:15
+UID:08a737c8-abb5-434c-b5ec-379610fd904a@08a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Mentoring reports written\, uploaded and ready to email
+UID:15133339-06cd-4c00-8f86-b6538b6dc9b5@1513.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250125
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - PE Advisor 22nd
+UID:9a40ffe4-c1f8-4322-bf39-bb33d2c67ba7@9a40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250308
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - YRs 3 –5 QLA Deadline: 05/03/25
+UID:05cba737-2316-4b1f-bfba-31ef117435ee@05cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Effort and Excellence Awards 13.12 - 9:10am
+UID:cc5ce235-3aa2-44dd-81f6-872875bb2e46@cc5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 16.09 - Y1-3
+UID:fcc5b1ce-a946-4aac-9552-9a579d75b3f8@fcc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Open Class Parent Sharing Sessions in class: 2:30-3:15 (5th and 7th)
+UID:c2c8bbca-8f2a-4e46-9465-e36d18f58b9e@c2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250405
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Data Analysis
+UID:a9cca91d-dea8-433c-abc2-69cc32f2a1fd@a9cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Interventions
+UID:55b3137a-a81c-4b28-8a22-dcbc9beed8e8@55b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250125
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Young Voices Concert – Y5+Choir 21.1
+UID:b4950c11-7bef-4eb0-937d-db090d4f2a51@b495.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Yellow Day = Friday 11th Oct
+UID:96647e50-181b-4a8a-a21f-1a462e7f12a4@9664.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - School Targets shared
+UID:41251d8c-c107-46e2-a0ba-327d86b0a7b5@4125.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Assess and record Phonics/ Benchmarking
+UID:35a0a8c7-066b-4284-b741-beb0bd92459a@35a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250208
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - PPMS
+UID:3e7b9582-449b-42b6-8cec-fd98bf931e65@3e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Teacher appraisals complete check
+UID:37c8a5fc-49fc-4ef8-93a3-4588ae43b9b9@37c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 23/24 Review + Priorities for 24/25 - EOY data
+UID:da386a5b-3bba-4198-ba22-6fcdb93ecb55@da38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250322
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y6 QLA Deadline – 19/03/25
+UID:3b8a8904-e3b4-4d19-9b66-55d7ef26eecb@3b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250308
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 4 + 5.3 Open Class Parent Sharing Sessions in class: 2:30-3:15
+UID:92b0e91c-5c00-44fc-9d87-64db30bad9c3@92b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - (No CPD on Wed)
+UID:e65828a2-5667-440f-8ab0-a3e917fd5a10@e658.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - PE and Music
+UID:4d31a94f-dc0d-40bd-a036-65a90f736b2a@4d31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Class Overviews ready
+UID:13204ee7-1768-4355-9503-e9d5d20661ec@1320.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 20 mins per class
+UID:2542abac-9444-4dce-942e-c666c1e798d5@2542.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241102
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Half Term
+UID:27b2c99c-4f24-4d14-b138-d82852c06fd8@27b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Prospective Parents Tour 6.11 1.30pm
+UID:ee3af03f-2650-463c-bfc7-f0b2c9ed88a2@ee3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Gov Standards Cttee – EOY Data Review + new SIP – 03.10
+UID:b4716a09-8e15-44d7-877b-f4bc88ba3a14@b471.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Gov Resources Cttee 07.11
+UID:6d75eb71-d013-4fe5-b86d-582ed52d89b9@6d75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - CPD and meetings
+UID:7dda98cf-c1df-4eae-b2fd-e152f10f1fbf@7dda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - ECT Observations
+UID:eaf72aff-dadf-45c4-b6fa-17733902dcca@eaf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 28.11 - Phonics Meetings with parents x2 (3:30 – 6:30pm)
+UID:100426b2-59cc-4889-a954-11429e3f57d9@1004.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Spring Term mentoring meetings
+UID:f9f48e15-0a2a-476c-b1a0-fb561cfe7825@f9f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y6 Assessments
+UID:ece4a3f8-f2c2-4290-8cdc-a1f7a0543d8f@ece4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250308
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - No staff meeting
+UID:3a2c1994-cbec-4989-9016-89ea60e58654@3a2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Leadership:
+UID:69c5eb18-fe35-4b19-9435-6219196cd8b4@69c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250201
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - No teacher CPD (in lieu of Parents Evenings + PE CPD)
+UID:5bd74f01-2dad-4556-a29c-fb8fe08e4b30@5bd7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Year R baseline assessments
+UID:71c63175-016f-4301-9de8-0ff6da8a54e9@71c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Christmas Events eg: Visit to St George’s Church 19.12
+UID:c0219dc5-3ca9-47ba-92bb-5727ac75b8e4@c021.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Reception in all day
+UID:e9a5c011-49e6-4fc3-8f36-e22530ff90f4@e9a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Leadership:
+UID:c7c14e06-57de-41dd-b60d-b9e937166027@c7c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Meet the Teacher Events
+UID:5307c2c7-b667-411c-871d-3aab42858e9a@5307.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Christmas Music Performance to parents 10.12 - 3:45pm
+UID:13bc97ec-8603-4201-aa99-ed121a9d152e@13bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Y3-5 Pupil Progress Meetings
+UID:d04b1d60-1efd-4c5d-8ff5-78adc9901f53@d04b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - SEND updates
+UID:b1a632ac-ef84-4b35-984e-d630a928536c@b1a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250201
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y3-5 Assessment Week
+UID:0e62e46b-a806-4ed8-8737-461a6fd122f5@0e62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Wed CPD – Time for Data Input KS2\; New website training
+UID:e40ad0a0-0f21-4708-910e-edea43aafdad@e40a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241019
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - CPD - Time for corridor displays
+UID:4f275e0a-621e-4674-a1cb-ab8bbac5a489@4f27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - YRs 3-5 QLA deadline: 30/10/24
+UID:d771194b-2dfb-46d4-927b-b5fdb7c1cf13@d771.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - CPD – PP meeting time
+UID:ab363d33-d53b-4aa6-8dbe-4f26b74ac9db@ab36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 6.12 am Flu vaccinations mop up
+UID:badda473-c2a7-4182-8fcb-65fc412d50e9@badd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Y3-5 Pupil Progress Meetings ctd
+UID:bc00062b-5895-4fcd-8165-be4a8d6e7579@bc00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - No teacher CPD – time for
+UID:1c821be0-ef53-46ea-8a7e-af00c1cf5d4c@1c82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Reception children to 12:45 (+ lunch – Home Visits pm)
+UID:0eb2845b-df10-4051-8b94-013cecce515d@0eb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250201
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - SLT – School SEF
+UID:1e19baa5-b163-4a9b-93ca-d3f05b79a556@1e19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - (mentoring reports ready by end of the week)
+UID:ab529bab-bf1c-4c23-84da-a4151de4d576@ab52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Rec+Yr 1 Performance 17 + 18.12
+UID:f8f1dd22-ad0f-4153-89ab-450a73413762@f8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250315
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Gov Resources Committee Meeting – 13.03
+UID:d90c7f8a-b5cb-4493-8eed-8d9b3ae0ce87@d90c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250322
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - YR2 QLA Deadline: 19/03/25
+UID:2dda1430-6fca-4e25-8a3e-062d721d025e@2dda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250322
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 18.3 Grafham Water Info Evening
+UID:312b72a3-d2b2-4a2c-bca7-ce742f9dfc92@312b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Year R baseline assessments
+UID:39169e11-ddbc-4183-b154-afcbeaea3b2e@3916.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - National Poetry Day – 03.10
+UID:bc80f93e-9193-43f8-bcad-3a5d00833b46@bc80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Leadership:
+UID:a90d773f-b9ff-4c43-b432-b9e41a494dbd@a90d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250304
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Budget Planning
+UID:db10e265-79dd-4226-bb49-7a7eb94e2f8e@db10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250118
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y6 Assessment Week
+UID:01b8b1bc-5c81-4fef-bd9e-3ab70b96507a@01b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Appraisal format 24-25
+UID:10bb41d3-3d2f-415d-874d-dd95a41d31d6@10bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Learning Drop Ins (ctd)
+UID:9a11bf03-d4e3-493c-9462-2d135624bff5@9a11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Last day of term = Fri 20th
+UID:4860e1b9-3413-4b8e-8e0d-5f6e036c4009@4860.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - PGCE Students in (2 weeks)
+UID:95148015-5e58-465a-9939-1efc0f5b8b19@9514.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - TA appraisal plan
+UID:18bcac7a-7354-4b01-8fdb-a01ab3dfe5c2@18bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Staff Christmas Do 06.12
+UID:4eda1f19-2149-45a9-8155-3980d9638c9a@4eda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - CPD – Phonics assessment clarification (MP)
+UID:8c27e427-0f3a-4ce0-9728-7731aac8d09a@8c27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Inclusion Meetings GW (PLPs and Provision mapping)
+UID:d0307396-d129-4be8-b214-9bf742b92525@d030.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 30.09 – Training Day = Teacher 24/25 Appraisals
+UID:37fe91d2-8f36-4916-b48d-a3b1003ba045@37fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Mental Health and Wellbeing Week
+UID:d10c1822-e4cf-48da-9e04-4dc54f4920aa@d10c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - - Data Analysis + plans
+UID:29046023-ee5c-4f8d-940b-eaf3d9382b85@2904.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 8/10 CPD – Mentally nurturing classroom launch (Tue)
+UID:f1590487-a91f-4fe1-a3d9-d61d647f0f05@f159.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Assessment and Target
+UID:5ba4cc44-f82c-4fa9-816a-c00a2f70f717@5ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Improvement Plan Review/SEF Updates
+UID:53d3eab0-4f56-4716-bdc8-8a7fdddb90e4@53d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Action Plan Reviews
+UID:01e7c63d-0293-4d50-ba97-45ac99f7b9ac@01e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - ECT Observations
+UID:749b5a82-e8af-4f96-81dc-79dbedeb2163@749b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - FGB Meeting – 12.12
+UID:2f88c04f-b150-4bdc-b4d0-c02338ed3827@2f88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - EEF Review – what impacts progress most?
+UID:310d09c3-53c1-42ee-8939-aadc0704fee3@310d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - TA training TBC
+UID:4d4b1dbf-2be7-401b-a43e-53747ac5ef94@4d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Leadership Appraisals 2425
+UID:709d99fd-c6fa-4e44-8c6c-458564df1d11@709d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250118
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - TD & KC at Maths Hub meeting 9:15-12:15
+UID:f582c849-ff7c-4770-b733-cf76c9926d39@f582.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Leadership Appraisals 2425
+UID:a1a64fb7-94e4-4257-ac9b-822bed9ed356@a1a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - TA training - Supporting Angry Children
+UID:4b010b67-991d-4f52-b07b-520e4e4f075b@4b01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Friends Christmas Raffles and Jar Stalls
+UID:abafe312-0b4d-413f-afec-727dfa6254f1@abaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Gov Pay Committee 07.11
+UID:6581f724-bc72-4cfa-b78c-2ac05dcd0aca@6581.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 06.01: Training Day
+UID:b8d9cb6b-c9b3-4937-8cc3-e1891c0146a2@b8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250208
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - New Displays in corridors
+UID:e2ced592-3736-4afd-8582-d15b5080b97d@e2ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Priorities for year ahead
+UID:42b1ba65-1fe8-4fea-bcea-6de4d78b3b00@42b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Y6 to Grafham 25.09-27.09
+UID:29087b4b-7e7a-4802-aae7-2ea04e7bf5b5@2908.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - TA training – Revisit Adaptive teaching
+UID:188dbb4c-c7f2-48a6-8fa0-e01349c55d3c@188d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Leadership: Analysis of PiXL data + how to develop its use across school
+UID:2e7f0e08-26e0-45f5-b03f-3e769ace5bd1@2e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Leadership – Learning Drop Ins
+UID:fc4c310d-d12c-444b-bb97-a1c1bd7cb8d6@fc4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Clubs start this week
+UID:126a313f-7196-4725-9a0c-db4a50da9730@126a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Wed CPD: /English/Adaptive teaching review
+UID:1a21de6e-011a-486e-a6c7-a60e17e041d4@1a21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Wed CPD: School Improvement Plan:
+UID:00d98ec4-f82e-41e7-9268-c93b1e531dfb@00d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 17.09 - Y4-6
+UID:791d5fe2-1f24-4343-8654-f74f474714a0@791d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Data analysis
+UID:553ea073-b717-43a5-a2f0-2710a52a9e3e@553e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - – Monitoring this term: Pupil Voice planning/data focus
+UID:98ca55a9-cb33-4160-8de8-2b5193189ad9@98ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - 27/11/24
+UID:124fcfd2-b316-471e-8dd3-f92c544ee2a6@124f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250304
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y2 Assessment Week
+UID:9d0dd48f-cc20-43e2-847f-b05d3bd6a843@9d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Action Plans
+UID:85a75f08-3b81-42b0-b12a-19e92ab7943a@85a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Maths/English updates
+UID:556b7d68-cbf0-40f4-901f-ad5f2eb47e56@556b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241019
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Learning Drop Ins
+UID:e3429f86-3588-444f-ba5c-547d0e099b46@e342.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Y2 Pupil Progress Meetings
+UID:e80cb6d1-0670-449c-9e6e-64461d474364@e80c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Attendance Awards
+UID:1dbfa321-4cc9-4b40-8fc9-f11fb5d99e68@1dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Annual Cycle eg: Parents Evenings/reports
+UID:d7ab1af3-83f8-4db2-bfa2-872e93dd1af0@d7ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Reception open classroom 27.9
+UID:f82e2306-fbe4-4d7c-bb08-020555eab311@f82e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Leadership:
+UID:aa26afbe-6087-4c03-9277-9225fdcea18d@aa26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250118
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - REPORTS OUT - 17th
+UID:795fb63e-d4ea-47f7-aa37-e159dd02559f@795f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Curriculum assmt focus
+UID:47db415f-10b9-4da7-88f6-4a385057d726@47db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 28.3 Effort and Excellence Awards
+UID:cda3ad88-65eb-4ecf-8d38-0192ccca5c6c@cda3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Policies and Gov work
+UID:9c6a8d63-6945-4f2d-be88-56d5985925f6@9c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - EOY data
+UID:33b41177-981f-4d6f-b95c-5b5c1e71cf92@33b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - New website live by 04.10.
+UID:3216c0fb-f29e-4d30-9390-09b7dcd54ebf@3216.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Hub updates
+UID:2b3afd4f-0a84-4aaf-9080-00783a92d812@2b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Tue 24.09 - BLP Maths
+UID:4f3733e4-7ed7-417c-83d6-a1d6ce694d86@4f37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 12th November – PSHE service delivering midday supervisor training
+UID:179586a1-dc55-4838-9151-7c1afcd5ac0e@1795.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250125
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - ECT Observations
+UID:e615c944-eb7c-45d5-b0be-7adfc337f4f7@e615.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Curriculum Letters home + class website pages updated
+UID:7fc45cae-305e-42b2-9bf2-2995f04087d3@7fc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - TD & KC at Maths Hub meeting 9:15-12:15
+UID:f8ff9269-e454-4590-ae33-e22c86de1d7d@f8ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Inclusion Learning Walk
+UID:8b870d55-2fe5-4de6-b0f1-7f6b80eb9c59@8b87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Feedback on appraisals + format
+UID:b6b5e7ef-30ab-40d2-91d4-580797c192c6@b6b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241102
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Half Term
+UID:22ae68f7-6166-4019-a8a8-8311055b0e87@22ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250125
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Parents’ evenings 20.1 and 23.1
+UID:cdbc74ce-50b6-4633-84d1-e524463f3a0c@cdbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250304
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y6 Assessment Week
+UID:1e39d290-75f9-460c-827a-e0f5195c0820@1e39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Inclusion Learning Walk
+UID:43f5474b-d8da-4889-88b2-accb6b02f3a5@43f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - T Day – PGCE Mentors at Faculty Ed for training
+UID:0ec0a371-612d-476f-88c0-77d3a64132e2@0ec0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - FGB Gov Meeting 27.03
+UID:c7006160-1f68-4f75-9e90-b615a70f14a2@c700.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y6 Assessment Week
+UID:3ef23d54-a85a-43e6-a27b-f2cdf35223cb@3ef2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Prospective Parents Tour 5.12 6pm
+UID:7cd7af1d-6557-4767-90c6-ae5aec076320@7cd7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Mon - CPD - 11.11 - LA PE Session 4
+UID:fed5b815-5102-4d4c-a8a9-bbb358a8c9c8@fed5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - EY/KS1 - New website training
+UID:4cb4c116-6e26-445f-bc49-994d2ef0e9db@4cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - TA training – Mentally Healthy classrooms
+UID:28052286-5992-4268-8434-d1880055b514@2805.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - LSHP:
+UID:f5376b46-b87b-4598-80a4-18a863e47d88@f537.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - FoS Christmas Discos 13.12
+UID:39818e24-4123-47c7-940e-267d80637505@3981.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - YR2 QLA Deadline: 20/11/24
+UID:45c933e6-1175-41aa-8083-5133af489f72@45c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Christmas lunch 20.12
+UID:a7669cb2-c8ac-4d57-b6dd-a886569e959d@a766.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Mentoring Meetings
+UID:c6b45f00-ce56-402f-9cae-e8064ed16baf@c6b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Anti Bullying Week
+UID:02de2147-7035-4ef0-b13c-0208d7813180@02de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - 14.11 am Flu vaccinations
+UID:addb3fb4-aa8f-4d52-a860-599b66086f0e@addb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Making children next year ready + assmt/PPM focus
+UID:59c0b2dd-21d4-466c-ad5b-4bc02af745ec@59c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Y3-5 Pupil Progress Meetings
+UID:6f5c1a66-8b08-4ccb-af6b-f1d12c0b78f0@6f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250405
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Spring Term mentoring meetings
+UID:31536702-7824-45f5-92d8-5525be5086bd@3153.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Friends of Shirley AGM 23.10 - 3:45pm
+UID:eb23ac96-9e89-4934-a6fc-8ddc4eeb4b1b@eb23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250315
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - PE Advisor – 12th March
+UID:77f5e4d9-d515-46ba-a1b9-31244bf61ea7@77f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Secondary Trainee Teacher placement
+UID:f27a6cb0-8fb8-4971-9b57-7d3169cfac59@f27a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - KS1 phase meeting on Wednesday  25/9
+UID:6eba04da-dac1-451c-bc41-267b6ea4ee59@6eba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250304
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - SLT
+UID:a1159ed0-9ce0-4ff5-8136-4a6f1737e938@a115.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Pay Committee work
+UID:74f84300-71c4-4bae-8b90-05d760a858bc@74f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Friends Christmas Raffles and Jar Stalls
+UID:3addb168-744d-477d-84f2-871ecbbc4609@3add.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - 9/10 Wed CPD: LA PE - session 3
+UID:ea3d1078-2d42-41e7-a010-a09c9bc6f584@ea3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Blue Smile starts 09.09
+UID:ae6a0127-52d2-4215-8890-3031e4bfb61a@ae6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250208
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Children’s Mental Health week – Whole school day Fri 7th February
+UID:32bc3cca-3c48-46c3-9d67-d31b52780850@32bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - PGCE placements begin (to February half term)
+UID:9d75ed50-0de2-471b-bad2-ac28956b66e5@9d75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Gov Resources Cttee – 28.11
+UID:0a5ef30e-4917-4f26-af78-2cda5deede4b@0a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - -BLP feedback + CPD
+UID:657e088c-cc6a-46ff-ab1e-c266203958c7@657e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250118
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Thursday 16th = Census
+UID:24441656-25e0-4cb1-9cdb-274aec3d1791@2444.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250201
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - ECT Observations
+UID:450c1dee-7b7d-4c2f-a006-8032b5de3e0c@450c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Homework starts
+UID:7495d007-0fc1-4611-b5a3-fba7c15548a2@7495.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Wed CPD: Data analysis and spelling
+UID:5232772e-84ba-4a40-b943-8796236acf18@5232.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Maths Hub initial visit to school (Priya Pankhania) 1-3 with TD and JC
+UID:6abffbb4-49a5-40ff-84ba-b6c946b19f5a@6abf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Reception children 8:40-11:45
+UID:7b90438d-abd8-45ab-8ebd-950f479e7138@7b90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250201
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Pupil Progress Meetings (PPMs)
+UID:5b76a9d5-ab1a-46cf-a401-557e4143a96f@5b76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y3-5 Assessments
+UID:654e7a3a-4e6b-46b7-9c75-e848ec5a7485@654e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250208
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Gov Standards Meeting – 06.02
+UID:4aa5f913-6046-4f55-a6a9-ff2b11da9839@4aa5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - PLP and provision map review
+UID:2095c753-c03e-48ca-982f-0b4abef498c5@2095.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Prospective parent tour 24.10 11am
+UID:1c14ccc4-3262-4a97-80ad-1a5c16bf351f@1c14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250315
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y1 QLA Deadline – 12/03/25
+UID:7caa02bb-2030-48ea-bd1b-1f6ff67a97cd@7caa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241012
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - Governor work this year
+UID:e22db6e9-eab3-4ec9-9750-59ceba23f8dc@e22d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - CPD MH review (45mins)
+UID:0bdf103c-b563-4589-ae13-fd351d14643b@0bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - ADHD training (SEND services)
+UID:0b8b3cbd-5b28-493f-9a4f-fb4f255821f3@0b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240921
+DESCRIPTION:Automatically generated task for SLT
+SUMMARY:SLT - SLT
+UID:8e7aadda-3f89-449b-a52b-f0b904624495@8e7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - 02.10 - Y6 QLA Deadline
+UID:a96cbb0c-0286-4bb1-9cce-dcda90c12a41@a96c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Governor FGB 12.09.24
+UID:b8d03e0d-6a1f-43aa-82d8-04d5f5940677@b8d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241102
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Half Term
+UID:2ab71e0f-1cd5-431b-a884-dec72589f067@2ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - SL work on assessment
+UID:eae4894d-2a2d-4991-9be4-869ae2b12f0f@eae4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240914
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - TA training – Setting up packs and resources
+UID:bc84b859-aa71-4b15-80db-dd412acc54f5@bc84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240928
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Inclusion Meetings GW (PLPs and Provision mapping)
+UID:4c5b238e-d743-4251-b6fe-b3f7cebebe51@4c5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - PS Open classroom am + pm 2.10
+UID:edea780e-6274-4c3c-8b09-8bb394decb1b@edea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Tues 5th Y1 and 2 teachers with SEND team  3.30-4.40
+UID:edefb7ae-8e4f-43b5-979b-01ccafba14f9@edef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Staff questionnaire
+UID:950dd0ae-1ce4-4889-98c1-66bed7fc0a56@950d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - School Census Day – 03.10
+UID:c3850d9c-5919-4d64-84a8-c9cdd7d62fdf@c385.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250304
+DESCRIPTION:Automatically generated task for AssessmentCycle
+SUMMARY:AssessmentCycle - Y1 Assessment Week
+UID:71d5b9e7-5b8c-49ef-989a-ddec9bd15a6a@71d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Curriculum and Policies focus
+UID:e6f84a39-0a88-4673-9332-eb891beeae1b@e6f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - FoS Chocolate Bingo?
+UID:7101a0de-3d84-4ed2-a93d-662dee2c809c@7101.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Wed 6th November (am) – Target setting with LA+Govs
+UID:dd498a70-7fac-4481-83cd-bd1cc838d4f5@dd49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Individual photos – 3.10
+UID:2d69a56d-88db-47b9-9941-a21f89d3989e@2d69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240907
+DESCRIPTION:Automatically generated task for ProfessionalDevelopment
+SUMMARY:ProfessionalDevelopment - Start of Term
+UID:78639d3f-abdf-43d4-8ea9-0fd1ea62d7cc@7863.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - BLP – 7 Characteristics
+UID:862a1ace-62cf-4579-8a75-b798963f872a@862a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241026
+DESCRIPTION:Automatically generated task for MonitoringCycle
+SUMMARY:MonitoringCycle - Y6 Pupil Progress Meetings
+UID:e66adfbc-9988-4319-a204-2c05024d47a1@e66a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241102
+DESCRIPTION:Automatically generated task for SchoolEvents
+SUMMARY:SchoolEvents - Half Term
+UID:415952dc-6b46-41cf-bffd-91d276773f0d@4159.org
+END:VEVENT
+END:VCALENDAR
