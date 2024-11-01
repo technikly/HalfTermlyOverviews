@@ -2,185 +2,185 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241116
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell challenge words with irregular patterns.
-UID:bfefd4bb-82f5-4ffd-9f33-6f72de679d02@bfef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DTEND;VALUE=DATE:20241214
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - SEND: To understand why a healthy diet and exercise is important
-UID:ae050c1a-7bb0-4176-a306-c28784fee28b@ae05.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241123
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - L.O: To find out how children are welcomed into the Sikh community.
-UID:a03c0c34-0103-4443-83fb-159565bf2460@a03c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241221
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - SEND:
-UID:9ccb5c88-1f90-48be-9067-223912b234a8@9ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DTEND;VALUE=DATE:20241214
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the suffix ‘-ful’.
-UID:6a572cd3-6582-4f72-a32e-dcf4aa86d568@6a57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241109
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To explain how the circulatory system works
-UID:87c6de6f-fe62-4763-b2af-5db8c0b48064@87c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241207
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - To explore the Sikh practice of sewa and understand its importance in the Sikh community.
-UID:e4f9627d-ed89-4555-ac9a-3a553e1ae0e4@e4f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241221
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words that can function as both nouns and verbs.
-UID:9f229b54-2ce7-4fa9-8674-7b616bac2e93@9f22.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241123
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - LO: To understand how life was changed for Jewish children during WW2.
-UID:68ae35b9-a1f2-4b1f-ad2c-621fcce1cf5b@68ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241109
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with irregular spelling patterns.
-UID:132e95a7-3b0f-4d08-b2f1-7567bd44630b@132e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241130
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To describe the four components of blood and their functions
-UID:c0523a57-6a12-4c94-ba37-f6f2d5e8fc08@c052.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241130
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - To explore the Sikh tradition of the Langar.
-UID:cd56186c-6a0c-42cc-b308-ae24dc8be1ed@cd56.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241123
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the short vowel sound /i/ spelled ‘y’.
-UID:fb8af2ce-ca71-42dc-8396-81726e9a56f6@fb8a.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241202
 DTEND;VALUE=DATE:20241207
 DESCRIPTION:Automatically generated task for Science
 SUMMARY:Science - LO: To understand that the heart rate can speed up or slow down depending on what the body is doing
-UID:a9edb545-6c0c-4991-a26a-13bad9cc9a7d@a9ed.org
+UID:f67ea48b-f1d0-4008-9c4c-22e700a42c0b@f67e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241111
 DTEND;VALUE=DATE:20241116
 DESCRIPTION:Automatically generated task for Re
 SUMMARY:Re - To understand how Sikhs worship through prayer.
-UID:1ca50cc7-9dcb-4a7b-b5f3-9f24c15525c3@1ca5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241116
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - L.O. To learn about WW2 using primary and secondary sources
-UID:0d473207-3b5b-495f-8131-c55a28ff01e9@0d47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241207
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - To address historically valid questions about significance.
-UID:aef06447-1d5a-40d3-a479-1987b942ac21@aef0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241221
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To explore the concept of companionship and expectations\, analysing vocabulary like "outrageous\," "solemnly\," "precious\," and "acquaintance."
-UID:7893f072-a613-4128-9f5a-728d87de9738@7893.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DTEND;VALUE=DATE:20241214
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To explain how our diet and activity levels can affect the body
-UID:f4f152c3-8787-4673-94af-45437584992c@f4f1.org
+UID:68558364-1ec7-4a3e-bc5b-9fd758b94555@6855.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241111
 DTEND;VALUE=DATE:20241116
 DESCRIPTION:Automatically generated task for Science
 SUMMARY:Science - LO: To describe the jobs of the heart\, blood and blood vessels
-UID:0a10d1dd-e36d-4cd3-be8b-432e7388ac3e@0a10.org
+UID:da6d6c15-12b7-4d01-aa53-9dbb1a7ecd78@da6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - L.O: To find out how children are welcomed into the Sikh community.
+UID:d5c0e408-f0e3-4bff-8f88-4ce6b3f72a1f@d5c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - To address historically valid questions about significance.
+UID:0cd3620a-5f4f-4d7f-ae4c-691e14f2534a@0cd3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241104
 DTEND;VALUE=DATE:20241109
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - To explore Sikh beliefs and some features of Sikh worship.
-UID:73147763-34de-4ed9-90ec-3d6603482920@7314.org
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with irregular spelling patterns.
+UID:8dd74926-c600-485d-b684-293b7cc0ea0d@8dd7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241130
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the long vowel sound /igh/ spelled ‘y’.
-UID:a1406c49-5389-419c-96fe-a28685fbbe0d@a140.org
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - L.O. To learn about WW2 using primary and secondary sources
+UID:cfd29c82-ed83-4225-9b1b-e84b2c5e32c2@cfd2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241202
 DTEND;VALUE=DATE:20241207
 DESCRIPTION:Automatically generated task for Spellings
 SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the prefix ‘over-’.
-UID:5f2e0c9b-01f1-4bb9-ab96-d7872b394601@5f2e.org
+UID:28d334dd-b445-46a6-a21a-d3bc71ff685c@28d3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241109
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - L.O. To hypothesise about the past using primary sources
-UID:5e78ae58-f10b-4c37-abbf-c4e318092c22@5e78.org
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the long vowel sound /igh/ spelled ‘y’.
+UID:c947bf70-2738-4f49-8cb6-d1ca7f060842@c947.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - To explore the Sikh tradition of the Langar.
+UID:26bebc77-2ec3-4d46-944a-77b1df35b83d@26be.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241125
 DTEND;VALUE=DATE:20241130
 DESCRIPTION:Automatically generated task for Historygeograph
 SUMMARY:Historygeograph - L.O. To create a timeline.
-UID:e9c30181-d4f7-4cb7-a8a5-061d96b6e2df@e9c3.org
+UID:dc4ceeb4-9c58-4e33-81c4-96fbb9fed0ad@dc4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To explain how the circulatory system works
+UID:0518a687-9c0c-49a7-a64b-599e73bc9298@0518.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - LO: To understand how life was changed for Jewish children during WW2.
+UID:57c3c817-3a62-4465-9cd8-99e87734e0c7@57c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words that can function as both nouns and verbs.
+UID:4bb86e4d-4f94-43e2-a28c-18e6ed4a59e3@4bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To explore the concept of companionship and expectations\, analysing vocabulary like "outrageous\," "solemnly\," "precious\," and "acquaintance."
+UID:231790ac-f028-49b5-a1db-a30025c9152e@2317.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241123
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the short vowel sound /i/ spelled ‘y’.
+UID:1ab84fe8-3604-4fd1-aa91-ba83814c10f5@1ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To explain how our diet and activity levels can affect the body
+UID:51c5312a-e01a-450d-9068-dfa6d2408be4@51c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To describe the four components of blood and their functions
+UID:25fb4ebb-c30e-430d-8f9c-f46d33237e2f@25fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the suffix ‘-ful’.
+UID:703b29c9-bda8-46db-a6dc-29fc3d5bfaa4@703b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241116
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell challenge words with irregular patterns.
+UID:12079db2-4285-4a79-866b-d816e3b25419@1207.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241214
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - SEND: To understand why a healthy diet and exercise is important
+UID:01d7ab28-b630-4f23-a4ff-8760adfb139a@01d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - To explore the Sikh practice of sewa and understand its importance in the Sikh community.
+UID:943a6512-8965-481a-992b-b94b1ff1ea85@943a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - L.O. To hypothesise about the past using primary sources
+UID:7a36ba88-0bfa-40b6-8781-b6fff919d125@7a36.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241216
 DTEND;VALUE=DATE:20241221
 DESCRIPTION:Automatically generated task for Science
 SUMMARY:Science - To be able to recognize the impact of drugs and alcohol on the way bodies function.
-UID:714eab78-5148-4041-a24f-27757ae73ab5@714e.org
+UID:9a69d63e-99d2-4ebe-a45a-6606ef7b9c1d@9a69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - SEND:
+UID:1a8e62d2-d39f-447c-9d8b-700a3aa58d63@1a8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241109
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - To explore Sikh beliefs and some features of Sikh worship.
+UID:2adc50dd-a78f-40d8-9c95-70a92696d3a3@2adc.org
 END:VEVENT
 END:VCALENDAR
