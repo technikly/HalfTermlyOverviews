@@ -2,560 +2,560 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241204
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To analyse character behaviour and infer traits based on examples.
-UID:b7307f65-7e85-475e-9d78-760ada5aa16a@b730.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241122
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To outline and plan the plot for a multi-chapter story.
-UID:a1d201ed-e4b5-499d-9a06-eeb92d205aba@a1d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241207
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To sequence sentences and apply grammatical features in structured order.
-UID:dca3da57-6deb-4ec5-a156-61d9534e9efc@dca3.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241111
 DTEND;VALUE=DATE:20241117
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To describe the jobs of the heart\, blood and blood vessels
-UID:c1c5317c-6263-49ed-b90d-d3067380cf31@c1c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DTEND;VALUE=DATE:20241215
 DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To analyse character motivations and interactions\, focusing on vocabulary like "assistance\," "sorrow\," and "familiar."
-UID:8220ea84-05c8-4f7f-8170-ba7c68b12c87@8220.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241222
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To punctuate dialogue accurately\, using vocabulary such as "technically\," "self-centred\," and "twittery."
-UID:551ce1f4-eb35-450d-a045-7b909a8bd292@551c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - L.O. To hypothesise about the past using primary sources
-UID:148ff196-accc-4fe2-830b-031667ca4ea0@148f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To construct complex sentences by using subordinate conjunctions effectively.
-UID:abe7593b-d16a-41ed-a198-f85bf419aaeb@abe7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241201
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To identify and correct sentence fragments\, and explore vocabulary related to Edward’s journey\, such as "ferocity" and "scraggly."
-UID:7ddf14e2-af77-4179-a4b9-33c7447b674f@7ddf.org
+SUMMARY:Guidedreading - L.O. To summarise events using key vocabulary such as "implications\," "indignities\," "diligence\," and "derogatory\," and to construct summary sentences.
+UID:5651502e-a761-4ee9-a868-49a13c04a493@5651.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241209
 DTEND;VALUE=DATE:20241215
 DESCRIPTION:Automatically generated task for Guidedreading
 SUMMARY:Guidedreading - L.O. To evaluate character empathy and relationships\, exploring terms such as "neon\," "spatula\," and "lengthened."
-UID:c1442f08-d14d-434b-9bde-c1bd801ccfe3@c144.org
+UID:d65b92b8-e0a4-4768-9d21-4fd637be21df@d65b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241222
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241124
 DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To apply root word knowledge to create word forms\, using terms like "assist\," "sorrow\," and "familiar."
-UID:4ad506bb-3f9f-41b4-9dd9-5d7cef38da3c@4ad5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241117
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - L.O. To learn about WW2 using primary and secondary sources
-UID:c8361b75-0636-479d-b736-abe205cc901f@c836.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241117
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To summarise events using key vocabulary such as "implications\," "indignities\," "diligence\," and "derogatory\," and to construct summary sentences.
-UID:b33c9c16-e7aa-444c-8bb6-4fa8b81add06@b33c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To publish a final draft of the narrative.
-UID:62a5f99c-9cc5-4664-b0f6-cd1540f68b27@62a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241117
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To complete compound sentences by adding main clauses and using commas correctly.
-UID:15bad666-66a0-4c37-b857-e43e8513920a@15ba.org
+SUMMARY:Guidedreading - L.O. To construct complex sentences by using subordinate conjunctions effectively.
+UID:5c0fbb16-03b3-4e94-859f-8c708f7154c3@5c0f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241111
 DTEND;VALUE=DATE:20241117
 DESCRIPTION:Automatically generated task for Spellings
 SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell challenge words with irregular patterns.
-UID:deb16e78-bd88-4792-b761-158920cab086@deb1.org
+UID:c5687de5-478e-4f78-89b6-2087f1d5b8b6@c568.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DTEND;VALUE=DATE:20241215
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - SEND: To understand why a healthy diet and exercise is important
-UID:d0cf92ea-b8c7-4c3a-b17c-8e914a3b31b1@d0cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241121
+DTSTART;VALUE=DATE:20241112
 DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To develop and plan character descriptions.
-UID:07fded5a-fe93-467b-9a1d-16badb2309a4@07fd.org
+SUMMARY:English - L.O. To identify and discuss pathetic fallacy within a model text.
+UID:bd87141c-dfed-4f1a-9693-94058159d1cf@bd87.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241211
+DTSTART;VALUE=DATE:20241205
 DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To write the first paragraph\, focusing on grammar accuracy.
-UID:e45edcd6-81c8-4a8f-85a4-21db75263167@e45e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241119
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To box up a story structure.
-UID:94384503-685f-44ce-902c-6c1373907112@9438.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To explore themes of kindness and empathy in characters\, focusing on vocabulary like "loathed\," "offended\," and "replacement."
-UID:d9cba659-9215-4042-a6cd-8ac643d07b39@d9cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241201
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To describe the four components of blood and their functions
-UID:d25d099c-38c3-418c-814e-04fd1f0dac0b@d25d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241218
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To publish the completed narrative (continued).
-UID:0bd06750-0b43-4afd-8832-0ee33050f8f3@0bd0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241117
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To comprehend the main ideas and themes within a reading passage and reflect on character motivations.
-UID:cd023e2e-afe4-4ee5-836a-c048323313c4@cd02.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241126
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To write the second chapter\, enhancing narrative details.
-UID:8b7477b3-8b70-48cc-8577-ee7c0458340d@8b74.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - To explore the Sikh practice of sewa and understand its importance in the Sikh community.
-UID:c33a4d20-01c3-4be1-9c87-0d167c744c36@c33a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DTEND;VALUE=DATE:20241215
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To discuss complex themes such as responsibility\, using vocabulary like "unravelled\," "insisted\," and "prevailed."
-UID:c73969a2-5068-401d-bed5-426fbaa4919d@c739.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241113
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To locate and record Y3-Y6 vocabulary and spellings within a text.
-UID:88f481ac-0bb7-4b82-8bd0-3b8c00cc5397@88f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241219
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - 14
-UID:90f99c71-e8ed-4bff-8987-d1e4584aa237@90f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To sequence sentences and apply grammatical features in structured order.
-UID:3d820d58-2b8d-4d04-928f-195785aff287@3d82.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241128
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To edit and evaluate the written narrative for improvement.
-UID:4da949a4-7e9f-460c-a99c-f88fdc3db9f5@4da9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241222
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words that can function as both nouns and verbs.
-UID:7d983b9a-015e-4c51-85f4-02a086d4d187@7d98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241127
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To write the third chapter\, focusing on coherence and flow.
-UID:f4b89bb2-a9e3-48c3-951d-aa9882e2ad79@f4b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - L.O: To find out how children are welcomed into the Sikh community.
-UID:5b0d5c89-9596-43a8-b0be-14960daefa52@5b0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - LO: To understand how life was changed for Jewish children during WW2.
-UID:a0a36ead-933e-4765-8e30-3f3273d82230@a0a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To evaluate and revise paragraphs with peer support.
-UID:4d168c97-6416-40c3-ba04-00b37178d831@4d16.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241201
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the long vowel sound /igh/ spelled ‘y’.
-UID:ed67a4e5-8115-4e72-b20b-d49a064170f3@ed67.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241222
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To finalise the publication process.
-UID:0302b6af-6b7b-47a4-be64-2f388d54faec@0302.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241203
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To correct punctuation and spelling within a model text.
-UID:7a274713-b5cb-4fa6-87b1-bb3027a980fa@7a27.org
+SUMMARY:English - L.O. To introduce and use subordinating and coordinating conjunctions in context.
+UID:a9d4bf01-b4d8-45e4-8d88-eb81f6ad41e5@a9d4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241209
 DTEND;VALUE=DATE:20241215
 DESCRIPTION:Automatically generated task for Spellings
 SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the suffix ‘-ful’.
-UID:2531424b-79d8-409c-a096-a2c4c63ca11d@2531.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241112
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To identify and discuss pathetic fallacy within a model text.
-UID:850731d5-9709-49c6-b9b4-37437fbf9a8e@8507.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241201
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To analyse the text to understand Edward’s emotional state\, using vocabulary such as "hollowness\," "ferocious\," and "weariness."
-UID:aa1bce14-a630-4bc9-9539-0627b8a80c4a@aa1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241217
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To publish the final paragraph(s) for display.
-UID:3cd875db-a0cc-4545-a05c-7c7543fbef84@3cd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241212
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To write the second paragraph\, building on narrative flow.
-UID:f4cd8160-5887-4298-950b-ca8a3dbc9e58@f4cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To interpret Edward’s sense of despair and evaluate text themes\, using words like "insistent" and "whippoorwill."
-UID:55c8f9bd-6e11-4e3c-8689-2e121cd3111c@55c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To write the first chapter\, refining structure independently.
-UID:d7dd5941-36af-495c-a414-5baf361ecc3d@d7dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To understand the purpose of fables and identify the morals within a story.
-UID:1dac2ec0-4f40-4c56-8132-e72ebeadb21f@1dac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To explain how the circulatory system works
-UID:ade830d9-574a-46a3-ab37-e462e5b5e4a8@ade8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241201
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - To explore the Sikh tradition of the Langar.
-UID:e887be1c-bf8d-411e-a14c-7efd82d26b88@e887.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To restore and correct vocabulary and punctuation within a model text.
-UID:a76da7f1-6179-421d-8385-be460488869b@a76d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241210
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To continue planning the narrative structure.
-UID:1f751423-bad7-4f7b-bc27-9b92b86f3a2b@1f75.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To discuss the concept of responsibility\, and reflect on Edward’s growth in empathy\, with vocabulary such as "limited" and "provoked."
-UID:c8603e19-518e-4db1-a6cd-0f3b47403bcb@c860.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241201
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - L.O. To create a timeline.
-UID:46700585-27d8-4ecc-8951-f534d784b948@4670.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241117
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - To understand how Sikhs worship through prayer.
-UID:fe57954e-8af0-4ba7-bd57-63490f90a8c3@fe57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To identify and analyse themes of “vanity\,” “empathy\,” “self-discovery\,” and “companionship” in the text\, using vocabulary such as "consequences" and "warthog."
-UID:a0793126-9986-4465-9bcd-91241617272f@a079.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To make predictions about Edward Tulane\, focusing on vocabulary such as “miraculous” and character analysis.
-UID:03db5042-614b-4eec-bd0a-e766ef5354f6@03db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To box up a story plan.
-UID:65477b2b-bcae-443b-b93b-c64974e8f9b8@6547.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:Automatically generated task for Re
-SUMMARY:Re - To explore Sikh beliefs and some features of Sikh worship.
-UID:04825c43-b7b4-431e-ae13-5fc342e0b5db@0482.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241222
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To explore the concept of companionship and expectations\, analysing vocabulary like "outrageous\," "solemnly\," "precious\," and "acquaintance."
-UID:0fd52160-70f8-483b-b762-58d6d2c30261@0fd5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241206
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To introduce and use subordinating and coordinating conjunctions in context.
-UID:718e4718-e6b3-4c52-93dc-25ad06c3fe28@718e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241130
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To publish the completed story (continued).
-UID:56dc234a-8877-4e8e-8660-c004b0656299@56dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241221
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - 15
-UID:c8a5942f-f05b-4deb-9b00-969f3c485bcf@c8a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241220
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To complete additional publishing activities as needed.
-UID:04366ec4-a400-4dce-ab40-367d0c4c986a@0436.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241201
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To predict character reactions using vocabulary such as "fate\," "unbearable\," "courtesy\," and "umbrage\," and to discuss how Edward begins to experience empathy.
-UID:2e5d8fab-a8e9-4ebc-9351-3cf404cacbb0@2e5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To apply rules for interrupted speech in narrative.
-UID:6baf8423-37bd-4d26-b1a2-b08475099fe7@6baf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241222
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To distinguish between modesty and vanity\, using vocabulary such as "surpassingly\," "nonetheless\," and "oblivion."
-UID:40694cfc-56db-4325-b79e-f70b280c61f3@4069.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241106
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To answer questions independently from the text and develop responses through discussion.
-UID:089f0ae9-1a9f-4520-8b4c-d1c745a584c8@089f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the prefix ‘over-’.
-UID:3056f08e-54a5-4d5a-9de5-09dfbb906de0@3056.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the short vowel sound /i/ spelled ‘y’.
-UID:1d98eede-283b-469f-87d6-115cc0215502@1d98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DTEND;VALUE=DATE:20241215
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To explain how our diet and activity levels can affect the body
-UID:df637138-ca2d-4973-a0cb-925890e5ab05@df63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241107
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To understand and use parenthesis within sentences.
-UID:3cfa6369-a58f-4de0-ab79-b95660387be0@3cfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To evaluate Edward’s journey of self-discovery and understand how he lacks empathy\, using terms like "possessed\," "exacted\," "singular\," and "disregarded."
-UID:cbba5af7-e19e-4607-94b8-74068c269af0@cbba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:Automatically generated task for Spellings
-SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with irregular spelling patterns.
-UID:ac970015-ffcf-4ce6-8f7f-fda0496caf43@ac97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241108
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To explore and use direct speech in writing.
-UID:0c6069a7-ac49-4ad4-b880-b737f0662ad7@0c60.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To introduce and use subordinating and coordinating conjunctions in context.
-UID:153d2425-3976-49a3-a0f4-0a83ee200b2b@153d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - LO: To understand that the heart rate can speed up or slow down depending on what the body is doing
-UID:7231a219-9b4b-4128-bef4-3ad22d3cc185@7231.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241216
-DTEND;VALUE=DATE:20241222
-DESCRIPTION:Automatically generated task for Science
-SUMMARY:Science - SEND:
-UID:03d81094-8948-40ab-aed8-4b2e190469eb@03d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241213
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To write the third paragraph\, ensuring cohesion.
-UID:07428f5c-3f19-4313-b058-8eb68cd7adad@0742.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:Automatically generated task for Guidedreading
-SUMMARY:Guidedreading - L.O. To explore and apply vocabulary related to character traits\, including "vanity\," "empathy\," "self-discovery\," and "companionship."
-UID:629268b9-94ee-4349-a05c-e57205f86456@6292.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241104
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To recognise prepositions and subordinating conjunctions in SPaG.
-UID:dcfb2299-5a9a-4b26-bc03-847a8e84733d@dcfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241120
-DESCRIPTION:Automatically generated task for English
-SUMMARY:English - L.O. To plan a setting for a narrative.
-UID:17c0fbfd-931d-4a13-aa11-07324e797c7c@17c0.org
+UID:cad8770c-3639-466c-991e-50940f799946@cad8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241104
 DTEND;VALUE=DATE:20241110
 DESCRIPTION:Automatically generated task for Guidedreading
 SUMMARY:Guidedreading - L.O. To analyse Edward Tulane’s character through text evidence to understand how he views himself and reflects on his own traits.
-UID:3be7de3b-e327-4408-94e8-ddf7d760d31c@3be7.org
+UID:b69bbb8b-7dd9-452e-8c17-133844e7edc8@b69b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241202
-DTEND;VALUE=DATE:20241208
-DESCRIPTION:Automatically generated task for Historygeograph
-SUMMARY:Historygeograph - To address historically valid questions about significance.
-UID:d4707bd5-f874-4bc6-afb9-b552e18ddef6@d470.org
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To analyse the text to understand Edward’s emotional state\, using vocabulary such as "hollowness\," "ferocious\," and "weariness."
+UID:ab639718-4e29-4c4c-b434-28161f061ce4@ab63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241110
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with irregular spelling patterns.
+UID:d7b1ac18-183d-4202-8f9b-24d41a8e4dc5@d7b1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241216
 DTEND;VALUE=DATE:20241222
 DESCRIPTION:Automatically generated task for Science
 SUMMARY:Science - To be able to recognize the impact of drugs and alcohol on the way bodies function.
-UID:60102c9e-b333-48ef-ac7e-5e4f4a8b3360@6010.org
+UID:fd165553-77e5-4070-bfe6-0252a6173c20@fd16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241110
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To explain how the circulatory system works
+UID:e11bfb46-9489-4f49-abd9-d0f288fb00c3@e11b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241121
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To develop and plan character descriptions.
+UID:80704dae-8125-42e5-9b05-1f0849cf87c0@8070.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241117
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To describe the jobs of the heart\, blood and blood vessels
+UID:40faa423-395f-4242-8de1-61817efe6e57@40fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241207
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To sequence sentences and apply grammatical features in structured order.
+UID:0639ab78-7669-43c3-a2a4-832a9ba5173f@0639.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241106
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To answer questions independently from the text and develop responses through discussion.
+UID:ce091c6d-36ba-4b32-979a-d7a87934c5d2@ce09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To interpret Edward’s sense of despair and evaluate text themes\, using words like "insistent" and "whippoorwill."
+UID:5e4569f7-c62b-409f-a028-a1b0244f145c@5e45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241222
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words that can function as both nouns and verbs.
+UID:8e34076c-bacb-4b28-8d0d-086b1e8d3826@8e34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To publish the completed story (continued).
+UID:d8d9d11d-7ba6-49e8-a6a0-936805ccaff6@d8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241222
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - SEND:
+UID:6132d69e-8b62-48e4-8123-4b9a71f5b168@6132.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241117
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - L.O. To learn about WW2 using primary and secondary sources
+UID:d9e589c6-247d-411f-ae8c-8be61e0757ef@d9e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241117
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To comprehend the main ideas and themes within a reading passage and reflect on character motivations.
+UID:a014f356-cafa-498b-9106-b7523afd8264@a014.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241222
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To punctuate dialogue accurately\, using vocabulary such as "technically\," "self-centred\," and "twittery."
+UID:ab001faa-d0da-4b91-9491-6022624a588f@ab00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - To address historically valid questions about significance.
+UID:40834836-2da1-4287-9832-1d0c5e1a9551@4083.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241124
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - L.O: To find out how children are welcomed into the Sikh community.
+UID:5aba867a-e9d6-4596-8e29-1b4029001d7c@5aba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To evaluate and revise paragraphs with peer support.
+UID:f35047c3-56e3-43fc-9415-c9b3d29b02b8@f350.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To recognise prepositions and subordinating conjunctions in SPaG.
+UID:948dec4a-6cb2-4a77-8a5c-63c69e5b5f7a@948d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To write the first chapter\, refining structure independently.
+UID:cf997820-95a0-4d45-b0c7-f9119d738e22@cf99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241211
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To write the first paragraph\, focusing on grammar accuracy.
+UID:348504ef-ec40-4850-9b75-8538f899433f@3485.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To understand that the heart rate can speed up or slow down depending on what the body is doing
+UID:2630d4ef-fc60-4ba3-b572-588940e91d46@2630.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To apply rules for interrupted speech in narrative.
+UID:58357f59-4d9e-4671-8596-5c2b966e70e8@5835.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241128
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To edit and evaluate the written narrative for improvement.
+UID:70235827-c951-4298-b707-a5adb5befc0f@7023.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241129
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To publish a final draft of the narrative.
+UID:19a3c50b-72c6-4d1b-97f7-add7d9dc50c7@19a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241215
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To explain how our diet and activity levels can affect the body
+UID:1e3face9-4470-409c-af15-eb697286baf8@1e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241219
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - 14
+UID:ba735bd9-b31f-46e3-9aab-9723260c57fb@ba73.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241202
 DESCRIPTION:Automatically generated task for English
 SUMMARY:English - L.O. To identify and explain grammar features within Kensuke’s Kingdom.
-UID:478eae66-461c-4b2b-94cc-75c43c043b93@478e.org
+UID:bb9809d9-8510-4b06-b253-69a15facc984@bb98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241110
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - L.O. To hypothesise about the past using primary sources
+UID:e6a466c9-b172-4ddf-bf20-23d5148cc384@e6a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241222
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To finalise the publication process.
+UID:1ed7783c-4753-41b6-8f80-c3a7a9fbf888@1ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To identify and correct sentence fragments\, and explore vocabulary related to Edward’s journey\, such as "ferocity" and "scraggly."
+UID:6244273b-4fb7-411e-9a95-a38cb40f9409@6244.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241119
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To box up a story structure.
+UID:897883d2-5ed0-4328-bde3-480ee19884c9@8978.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241117
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To complete compound sentences by adding main clauses and using commas correctly.
+UID:744fe7e7-16ae-40f5-8deb-77681d6c2756@744f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241107
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To understand and use parenthesis within sentences.
+UID:31ceb8e5-77f8-4a8c-b41a-7e6cb235d56a@31ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To make predictions about Edward Tulane\, focusing on vocabulary such as “miraculous” and character analysis.
+UID:56a06c92-cf0d-4762-a612-a121cfe1377a@56a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241212
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To write the second paragraph\, building on narrative flow.
+UID:aec3a2e1-84ed-4a2f-8d93-fd46b3cead78@aec3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241217
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To publish the final paragraph(s) for display.
+UID:993a2d3c-719a-4293-8042-ba7fa2a9aa02@993a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241221
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - 15
+UID:31685411-b0ae-4f15-b5f2-5c5e8e9d97af@3168.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241218
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To publish the completed narrative (continued).
+UID:3fb1c53d-a95d-4a06-8319-24abfc2306a3@3fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241124
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the short vowel sound /i/ spelled ‘y’.
+UID:3090de1d-75a1-4b07-81b0-fde003650c76@3090.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241215
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To analyse character motivations and interactions\, focusing on vocabulary like "assistance\," "sorrow\," and "familiar."
+UID:80d890d0-072b-48c7-b785-a89e059e4c94@80d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To introduce and use subordinating and coordinating conjunctions in context.
+UID:8e3aaf4d-ee6f-4d69-ad92-1e9cc3591aab@8e3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - To explore the Sikh tradition of the Langar.
+UID:5c4cf03a-98a9-41d5-bd63-a7cf0bc92397@5c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241110
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To explore and apply vocabulary related to character traits\, including "vanity\," "empathy\," "self-discovery\," and "companionship."
+UID:aaf4e6e4-0fbf-4253-b0b5-a6ea6bfcff09@aaf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To sequence sentences and apply grammatical features in structured order.
+UID:e8c1b4c8-7d72-4185-91fe-46596e050251@e8c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To explore themes of kindness and empathy in characters\, focusing on vocabulary like "loathed\," "offended\," and "replacement."
+UID:393ffbba-88e4-4f66-a33a-a911d722a89f@393f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241126
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To write the second chapter\, enhancing narrative details.
+UID:8524aeb2-132e-4f7e-8928-327cdcc1a408@8524.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - LO: To describe the four components of blood and their functions
+UID:51acdb75-9d92-4faf-aae1-3535c59e6313@51ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241222
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To explore the concept of companionship and expectations\, analysing vocabulary like "outrageous\," "solemnly\," "precious\," and "acquaintance."
+UID:1556626d-04a7-467c-828f-1d2793e885e3@1556.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241110
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To understand the purpose of fables and identify the morals within a story.
+UID:5a55a3cd-f40f-488b-bbd3-868430c5b7c9@5a55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - To explore the Sikh practice of sewa and understand its importance in the Sikh community.
+UID:02647387-c1b4-408d-aee8-5f16854ba7bb@0264.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To predict character reactions using vocabulary such as "fate\," "unbearable\," "courtesy\," and "umbrage\," and to discuss how Edward begins to experience empathy.
+UID:978d41ed-2b43-4ba0-a42d-fe9f58ec6578@978d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241204
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To analyse character behaviour and infer traits based on examples.
+UID:9b25ab59-8db5-4b80-81a4-58650e703916@9b25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241113
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To locate and record Y3-Y6 vocabulary and spellings within a text.
+UID:ce90aa33-10fe-449c-bd62-8a23e423ab17@ce90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the prefix ‘over-’.
+UID:2f2cecc5-d108-4dd2-a0de-46c2390515d7@2f2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241220
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To complete additional publishing activities as needed.
+UID:a034afb0-270d-4d5b-bd23-7112d17af29c@a034.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241208
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To discuss the concept of responsibility\, and reflect on Edward’s growth in empathy\, with vocabulary such as "limited" and "provoked."
+UID:5c165164-1587-4424-9c07-4fc734e051ca@5c16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241117
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - To understand how Sikhs worship through prayer.
+UID:9369ebad-0de7-47a0-8c2b-4465d87a9244@9369.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241108
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To explore and use direct speech in writing.
+UID:035cf200-e6cb-41c6-8991-5a36e78b8497@035c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241124
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - LO: To understand how life was changed for Jewish children during WW2.
+UID:5807e57e-fb28-4644-92d7-1a92b64d38be@5807.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241213
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To write the third paragraph\, ensuring cohesion.
+UID:9b188f8a-9cb2-4e6c-a222-89eeb57caacd@9b18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241122
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To outline and plan the plot for a multi-chapter story.
+UID:3563b738-8e92-4989-8d7d-2216ae30d3d2@3563.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241215
+DESCRIPTION:Automatically generated task for Science
+SUMMARY:Science - SEND: To understand why a healthy diet and exercise is important
+UID:3855a746-f815-48a4-9ca4-d4407024284b@3855.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To box up a story plan.
+UID:ac575a39-d508-469c-bf5a-1ab8ef3fbd4b@ac57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241222
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To distinguish between modesty and vanity\, using vocabulary such as "surpassingly\," "nonetheless\," and "oblivion."
+UID:4fcfb66e-61fd-4505-9444-8ef662596471@4fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Automatically generated task for Historygeograph
+SUMMARY:Historygeograph - L.O. To create a timeline.
+UID:e6590209-8ebf-44f0-ac05-3f59ca8f0960@e659.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To restore and correct vocabulary and punctuation within a model text.
+UID:ba7f80c4-9356-4655-b35c-d5abd1a942c6@ba7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To continue planning the narrative structure.
+UID:f8736c2a-7a2f-4f67-b771-5368de9923cc@f873.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To write the third chapter\, focusing on coherence and flow.
+UID:95f9b147-b1ca-4bdd-af6f-e6c6f4b0858b@95f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Automatically generated task for Spellings
+SUMMARY:Spellings - L.O. To segment words into syllables and phonemes\, and to spell words with the long vowel sound /igh/ spelled ‘y’.
+UID:09e3b47f-88f3-4b61-9845-74d431c8ccae@09e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241215
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To discuss complex themes such as responsibility\, using vocabulary like "unravelled\," "insisted\," and "prevailed."
+UID:ecb5bfc3-8559-49ba-98a6-f6f0bfcf8f63@ecb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241124
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To identify and analyse themes of “vanity\,” “empathy\,” “self-discovery\,” and “companionship” in the text\, using vocabulary such as "consequences" and "warthog."
+UID:29f70261-e663-4e25-bcd7-950869e4cc73@29f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241203
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To correct punctuation and spelling within a model text.
+UID:810fe13d-4f17-4851-9eec-eae2aa47ce1b@810f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241110
+DESCRIPTION:Automatically generated task for Re
+SUMMARY:Re - To explore Sikh beliefs and some features of Sikh worship.
+UID:fe95692b-db07-4b99-b241-3bdc53558653@fe95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241124
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To evaluate Edward’s journey of self-discovery and understand how he lacks empathy\, using terms like "possessed\," "exacted\," "singular\," and "disregarded."
+UID:5be5422b-b2ee-4e5f-bce1-1286f32de84c@5be5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241120
+DESCRIPTION:Automatically generated task for English
+SUMMARY:English - L.O. To plan a setting for a narrative.
+UID:40aebf5b-82ad-47df-bcd4-e0e36fdc424c@40ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241222
+DESCRIPTION:Automatically generated task for Guidedreading
+SUMMARY:Guidedreading - L.O. To apply root word knowledge to create word forms\, using terms like "assist\," "sorrow\," and "familiar."
+UID:3e28ca6d-6577-4301-bbb2-fe301ca8df20@3e28.org
 END:VEVENT
 END:VCALENDAR
